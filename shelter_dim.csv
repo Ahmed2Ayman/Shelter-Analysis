@@ -1,0 +1,609 @@
+shelter_id,shelter_name,city,state,notes
+1,Sunrise Shelter,Dallas,TX,High demand
+2,Safe Haven,Dallas,TX,No issues reported
+3,Second Chance,San Jose,CA,Excellent condition
+4,Harbor Home,San Jose,CA,Needs maintenance
+5,Harbor Home,San Antonio,TX,No issues reported
+6,Harbor Home,San Jose,CA,No issues reported
+7,Safe Haven,Phoenix,AZ,High demand
+8,Sunrise Shelter,Houston,TX,Under inspection
+9,Safe Haven,Houston,TX,High demand
+10,Pathway Place,San Diego,CA,No issues reported
+11,Recovery Residence,Houston,TX,High demand
+12,Harbor Home,Chicago,IL,Needs maintenance
+13,HomeSafe,Dallas,TX,Overcrowded
+14,Hope House,San Diego,CA,Under inspection
+15,Recovery Residence,New York,NY,Staff shortage
+16,Safe Haven,Dallas,TX,Excellent condition
+17,Sunrise Shelter,Houston,TX,High demand
+18,Harbor Home,Philadelphia,PA,Excellent condition
+19,Sunrise Shelter,San Antonio,TX,Staff shortage
+20,HomeSafe,Philadelphia,PA,Needs maintenance
+21,Recovery Residence,Chicago,IL,Overcrowded
+22,HomeSafe,San Jose,CA,Recently renovated
+23,New Beginnings,Chicago,IL,No issues reported
+24,Shelter Plus,Dallas,TX,High demand
+25,Recovery Residence,Phoenix,AZ,Overcrowded
+26,Second Chance,Phoenix,AZ,
+27,Harbor Home,Phoenix,AZ,Under inspection
+28,Recovery Residence,San Jose,CA,
+29,Pathway Place,Phoenix,AZ,Under inspection
+30,Safe Haven,San Diego,CA,Under inspection
+31,HomeSafe,San Antonio,TX,Under inspection
+32,Sunrise Shelter,Chicago,IL,Under inspection
+33,Hope House,Dallas,TX,Staff shortage
+34,HomeSafe,Houston,TX,High demand
+35,New Beginnings,San Jose,CA,High demand
+36,Pathway Place,Chicago,IL,
+37,Harbor Home,Chicago,IL,Under inspection
+38,Harbor Home,San Antonio,TX,Overcrowded
+39,Recovery Residence,New York,NY,
+40,Pathway Place,San Diego,CA,Needs maintenance
+41,Second Chance,Dallas,TX,Staff shortage
+42,Shelter Plus,Houston,TX,Excellent condition
+43,New Beginnings,Los Angeles,CA,
+44,HomeSafe,San Jose,CA,Overcrowded
+45,Pathway Place,San Antonio,TX,Under inspection
+46,Second Chance,Chicago,IL,High demand
+47,Hope House,Dallas,TX,
+48,Recovery Residence,Phoenix,AZ,
+49,Pathway Place,San Jose,CA,Recently renovated
+50,Sunrise Shelter,San Diego,CA,Excellent condition
+51,Shelter Plus,Houston,TX,No issues reported
+52,Safe Haven,Phoenix,AZ,No issues reported
+53,Safe Haven,San Diego,CA,Needs maintenance
+54,Sunrise Shelter,San Diego,CA,No issues reported
+55,Harbor Home,New York,NY,Recently renovated
+56,Sunrise Shelter,Philadelphia,PA,Recently renovated
+57,New Beginnings,Chicago,IL,Recently renovated
+58,HomeSafe,Los Angeles,CA,
+59,Recovery Residence,Phoenix,AZ,High demand
+60,Hope House,San Antonio,TX,High demand
+61,Safe Haven,Houston,TX,Under inspection
+62,Safe Haven,Los Angeles,CA,High demand
+63,Shelter Plus,Phoenix,AZ,Needs maintenance
+64,Recovery Residence,Chicago,IL,No issues reported
+65,New Beginnings,Phoenix,AZ,Excellent condition
+66,Hope House,Chicago,IL,Excellent condition
+67,New Beginnings,San Diego,CA,Under inspection
+68,Recovery Residence,San Diego,CA,No issues reported
+69,Harbor Home,Chicago,IL,Staff shortage
+70,New Beginnings,Phoenix,AZ,Needs maintenance
+71,Hope House,Houston,TX,Under inspection
+72,HomeSafe,Los Angeles,CA,Recently renovated
+73,Hope House,Dallas,TX,Needs maintenance
+74,Sunrise Shelter,Los Angeles,CA,No issues reported
+75,Hope House,Houston,TX,High demand
+76,Second Chance,New York,NY,Excellent condition
+77,Hope House,Philadelphia,PA,High demand
+78,New Beginnings,New York,NY,Staff shortage
+79,Harbor Home,Houston,TX,Overcrowded
+80,Harbor Home,Houston,TX,Needs maintenance
+81,Sunrise Shelter,San Jose,CA,Staff shortage
+82,Sunrise Shelter,Los Angeles,CA,High demand
+83,Hope House,Philadelphia,PA,Under inspection
+84,Second Chance,San Diego,CA,Excellent condition
+85,Safe Haven,New York,NY,Excellent condition
+86,HomeSafe,Los Angeles,CA,High demand
+87,New Beginnings,Dallas,TX,Recently renovated
+88,Hope House,Chicago,IL,
+89,Recovery Residence,Los Angeles,CA,
+90,Hope House,Chicago,IL,High demand
+91,Recovery Residence,Chicago,IL,Recently renovated
+92,Safe Haven,New York,NY,Overcrowded
+93,Hope House,Houston,TX,Staff shortage
+94,HomeSafe,San Jose,CA,Staff shortage
+95,New Beginnings,San Antonio,TX,Staff shortage
+96,Hope House,Dallas,TX,No issues reported
+97,Hope House,New York,NY,High demand
+98,Safe Haven,Los Angeles,CA,Overcrowded
+99,Sunrise Shelter,Los Angeles,CA,Needs maintenance
+100,Hope House,Houston,TX,Overcrowded
+101,Pathway Place,Los Angeles,CA,Staff shortage
+102,Harbor Home,Houston,TX,Staff shortage
+103,New Beginnings,New York,NY,Recently renovated
+104,HomeSafe,Houston,TX,
+105,Recovery Residence,Phoenix,AZ,No issues reported
+106,New Beginnings,Chicago,IL,Overcrowded
+107,Shelter Plus,Philadelphia,PA,Under inspection
+108,Hope House,Houston,TX,Recently renovated
+109,Pathway Place,Dallas,TX,Staff shortage
+110,New Beginnings,Los Angeles,CA,Staff shortage
+111,Recovery Residence,San Diego,CA,Recently renovated
+112,Hope House,Los Angeles,CA,Recently renovated
+113,Sunrise Shelter,San Jose,CA,No issues reported
+114,HomeSafe,Philadelphia,PA,Recently renovated
+115,HomeSafe,Phoenix,AZ,Under inspection
+116,New Beginnings,Dallas,TX,No issues reported
+117,Shelter Plus,Houston,TX,Overcrowded
+118,Harbor Home,San Diego,CA,Needs maintenance
+119,Recovery Residence,Dallas,TX,High demand
+120,Safe Haven,San Jose,CA,High demand
+121,Sunrise Shelter,New York,NY,Overcrowded
+122,Harbor Home,San Diego,CA,Staff shortage
+123,Second Chance,New York,NY,Recently renovated
+124,Second Chance,San Antonio,TX,Recently renovated
+125,Shelter Plus,San Antonio,TX,Under inspection
+126,Second Chance,Chicago,IL,Needs maintenance
+127,Second Chance,Houston,TX,Needs maintenance
+128,Recovery Residence,Chicago,IL,High demand
+129,New Beginnings,San Diego,CA,Staff shortage
+130,New Beginnings,Philadelphia,PA,Staff shortage
+131,Pathway Place,San Jose,CA,Excellent condition
+132,HomeSafe,Dallas,TX,Recently renovated
+133,Sunrise Shelter,Chicago,IL,Staff shortage
+134,Shelter Plus,San Diego,CA,Overcrowded
+135,HomeSafe,New York,NY,Staff shortage
+136,Safe Haven,Dallas,TX,Overcrowded
+137,Second Chance,Phoenix,AZ,Recently renovated
+138,Hope House,Dallas,TX,Overcrowded
+139,Shelter Plus,Chicago,IL,No issues reported
+140,Hope House,San Antonio,TX,No issues reported
+141,Harbor Home,Dallas,TX,Staff shortage
+142,Recovery Residence,San Diego,CA,Under inspection
+143,Safe Haven,Chicago,IL,Under inspection
+144,Sunrise Shelter,San Antonio,TX,
+145,Shelter Plus,San Diego,CA,High demand
+146,Pathway Place,San Jose,CA,No issues reported
+147,HomeSafe,Houston,TX,Staff shortage
+148,Shelter Plus,San Diego,CA,Under inspection
+149,Second Chance,Philadelphia,PA,Recently renovated
+150,Sunrise Shelter,Philadelphia,PA,Excellent condition
+151,Safe Haven,Phoenix,AZ,Excellent condition
+152,Shelter Plus,Los Angeles,CA,No issues reported
+153,Pathway Place,Philadelphia,PA,Staff shortage
+154,Harbor Home,Los Angeles,CA,Needs maintenance
+155,Safe Haven,Phoenix,AZ,Recently renovated
+156,Harbor Home,Los Angeles,CA,Overcrowded
+157,Second Chance,Philadelphia,PA,Needs maintenance
+158,HomeSafe,Los Angeles,CA,Under inspection
+159,Recovery Residence,San Diego,CA,Staff shortage
+160,HomeSafe,San Diego,CA,Under inspection
+161,Hope House,Houston,TX,Excellent condition
+162,Sunrise Shelter,San Jose,CA,Overcrowded
+163,Recovery Residence,San Antonio,TX,Recently renovated
+164,New Beginnings,Phoenix,AZ,Under inspection
+165,Recovery Residence,Los Angeles,CA,No issues reported
+166,New Beginnings,Philadelphia,PA,Needs maintenance
+167,Sunrise Shelter,Phoenix,AZ,
+168,Harbor Home,Los Angeles,CA,No issues reported
+169,Recovery Residence,New York,NY,Overcrowded
+170,Recovery Residence,San Diego,CA,Excellent condition
+171,Sunrise Shelter,Dallas,TX,Excellent condition
+172,Sunrise Shelter,San Antonio,TX,Needs maintenance
+173,Safe Haven,San Diego,CA,No issues reported
+174,Safe Haven,San Diego,CA,Excellent condition
+175,Second Chance,Dallas,TX,Recently renovated
+176,Harbor Home,Phoenix,AZ,Excellent condition
+177,Pathway Place,Los Angeles,CA,Under inspection
+178,Shelter Plus,New York,NY,Overcrowded
+179,Pathway Place,San Antonio,TX,Overcrowded
+180,Shelter Plus,Los Angeles,CA,High demand
+181,Second Chance,San Antonio,TX,Needs maintenance
+182,HomeSafe,Phoenix,AZ,
+183,Safe Haven,Philadelphia,PA,Under inspection
+184,Shelter Plus,Philadelphia,PA,Recently renovated
+185,New Beginnings,San Antonio,TX,No issues reported
+186,New Beginnings,San Jose,CA,Excellent condition
+187,New Beginnings,San Jose,CA,Needs maintenance
+188,Safe Haven,Chicago,IL,Excellent condition
+189,Pathway Place,San Antonio,TX,Needs maintenance
+190,Hope House,New York,NY,
+191,Shelter Plus,Dallas,TX,Needs maintenance
+192,Safe Haven,Philadelphia,PA,
+193,Harbor Home,San Diego,CA,Under inspection
+194,Shelter Plus,San Diego,CA,No issues reported
+195,Recovery Residence,Philadelphia,PA,Overcrowded
+196,Sunrise Shelter,Chicago,IL,No issues reported
+197,Second Chance,Houston,TX,Recently renovated
+198,Hope House,Phoenix,AZ,
+199,Sunrise Shelter,Phoenix,AZ,Under inspection
+200,Pathway Place,New York,NY,Recently renovated
+201,Shelter Plus,Houston,TX,Under inspection
+202,New Beginnings,Chicago,IL,Excellent condition
+203,New Beginnings,San Diego,CA,Excellent condition
+204,New Beginnings,San Antonio,TX,
+205,Sunrise Shelter,Chicago,IL,Recently renovated
+206,New Beginnings,Chicago,IL,Under inspection
+207,Sunrise Shelter,New York,NY,Recently renovated
+208,Harbor Home,San Antonio,TX,Staff shortage
+209,Recovery Residence,Los Angeles,CA,Recently renovated
+210,New Beginnings,Houston,TX,
+211,Second Chance,San Antonio,TX,High demand
+212,Shelter Plus,San Antonio,TX,No issues reported
+213,Shelter Plus,San Antonio,TX,Recently renovated
+214,Shelter Plus,Los Angeles,CA,
+215,Harbor Home,New York,NY,Under inspection
+216,Shelter Plus,San Jose,CA,No issues reported
+217,Recovery Residence,New York,NY,No issues reported
+218,Safe Haven,Dallas,TX,Recently renovated
+219,HomeSafe,Philadelphia,PA,High demand
+220,Sunrise Shelter,San Diego,CA,Overcrowded
+221,Harbor Home,Houston,TX,High demand
+222,Hope House,San Antonio,TX,Staff shortage
+223,Pathway Place,New York,NY,High demand
+224,Second Chance,Houston,TX,High demand
+225,Sunrise Shelter,Los Angeles,CA,Overcrowded
+226,HomeSafe,Philadelphia,PA,Staff shortage
+227,Second Chance,San Jose,CA,Under inspection
+228,New Beginnings,San Diego,CA,Needs maintenance
+229,Sunrise Shelter,Dallas,TX,Recently renovated
+230,Hope House,Houston,TX,No issues reported
+231,New Beginnings,Houston,TX,Excellent condition
+232,Pathway Place,Chicago,IL,Excellent condition
+233,Pathway Place,San Jose,CA,High demand
+234,Safe Haven,Dallas,TX,Under inspection
+235,Harbor Home,Philadelphia,PA,Under inspection
+236,Sunrise Shelter,New York,NY,
+237,Harbor Home,New York,NY,Overcrowded
+238,Second Chance,New York,NY,Staff shortage
+239,Safe Haven,San Diego,CA,High demand
+240,Second Chance,Los Angeles,CA,Under inspection
+241,New Beginnings,Los Angeles,CA,High demand
+242,Safe Haven,Los Angeles,CA,Recently renovated
+243,Sunrise Shelter,San Jose,CA,
+244,Sunrise Shelter,San Jose,CA,Under inspection
+245,Recovery Residence,Houston,TX,Overcrowded
+246,HomeSafe,San Antonio,TX,No issues reported
+247,Pathway Place,Los Angeles,CA,Excellent condition
+248,Second Chance,San Antonio,TX,Under inspection
+249,Harbor Home,Los Angeles,CA,
+250,Sunrise Shelter,Los Angeles,CA,Staff shortage
+251,Pathway Place,New York,NY,No issues reported
+252,New Beginnings,Los Angeles,CA,Needs maintenance
+253,Recovery Residence,Houston,TX,Under inspection
+254,HomeSafe,Dallas,TX,Excellent condition
+255,Harbor Home,San Antonio,TX,Under inspection
+256,HomeSafe,Chicago,IL,Needs maintenance
+257,Hope House,Philadelphia,PA,Recently renovated
+258,Second Chance,Houston,TX,No issues reported
+259,Second Chance,Houston,TX,Excellent condition
+260,HomeSafe,New York,NY,Needs maintenance
+261,New Beginnings,San Antonio,TX,High demand
+262,Second Chance,San Diego,CA,Under inspection
+263,Pathway Place,Philadelphia,PA,Needs maintenance
+264,Safe Haven,New York,NY,Recently renovated
+265,Sunrise Shelter,San Diego,CA,Staff shortage
+266,HomeSafe,San Diego,CA,Excellent condition
+267,Sunrise Shelter,San Diego,CA,Under inspection
+268,Shelter Plus,San Jose,CA,Needs maintenance
+269,Shelter Plus,Philadelphia,PA,Staff shortage
+270,Hope House,San Jose,CA,Under inspection
+271,Shelter Plus,Philadelphia,PA,
+272,Safe Haven,Los Angeles,CA,Excellent condition
+273,Shelter Plus,San Diego,CA,Staff shortage
+274,Shelter Plus,New York,NY,High demand
+275,Hope House,Dallas,TX,Excellent condition
+276,New Beginnings,Los Angeles,CA,Recently renovated
+277,Safe Haven,Los Angeles,CA,Staff shortage
+278,Shelter Plus,Dallas,TX,Excellent condition
+279,Harbor Home,San Jose,CA,Overcrowded
+280,Recovery Residence,San Diego,CA,Overcrowded
+281,Second Chance,Dallas,TX,No issues reported
+282,New Beginnings,New York,NY,Overcrowded
+283,Recovery Residence,San Antonio,TX,Overcrowded
+284,Shelter Plus,Phoenix,AZ,High demand
+285,Sunrise Shelter,San Diego,CA,Needs maintenance
+286,Pathway Place,Philadelphia,PA,No issues reported
+287,Second Chance,San Jose,CA,Overcrowded
+288,Second Chance,Chicago,IL,Overcrowded
+289,Harbor Home,Phoenix,AZ,Overcrowded
+290,Sunrise Shelter,Los Angeles,CA,Recently renovated
+291,Sunrise Shelter,Chicago,IL,
+292,New Beginnings,Phoenix,AZ,High demand
+293,Shelter Plus,Dallas,TX,Staff shortage
+294,HomeSafe,Houston,TX,Overcrowded
+295,Second Chance,New York,NY,
+296,Sunrise Shelter,New York,NY,High demand
+297,Sunrise Shelter,Philadelphia,PA,Staff shortage
+298,Sunrise Shelter,New York,NY,Excellent condition
+299,Pathway Place,San Antonio,TX,No issues reported
+300,Shelter Plus,San Diego,CA,
+301,Pathway Place,Chicago,IL,Staff shortage
+302,Hope House,New York,NY,Overcrowded
+303,Pathway Place,Houston,TX,Excellent condition
+304,Hope House,Los Angeles,CA,Excellent condition
+305,Safe Haven,Houston,TX,Staff shortage
+306,HomeSafe,Houston,TX,Recently renovated
+307,New Beginnings,Los Angeles,CA,Overcrowded
+308,Recovery Residence,San Jose,CA,Overcrowded
+309,Sunrise Shelter,Houston,TX,No issues reported
+310,Recovery Residence,Houston,TX,Excellent condition
+311,Hope House,San Antonio,TX,Needs maintenance
+312,Sunrise Shelter,Houston,TX,Overcrowded
+313,Second Chance,New York,NY,Overcrowded
+314,Pathway Place,San Diego,CA,
+315,New Beginnings,Los Angeles,CA,No issues reported
+316,Recovery Residence,San Antonio,TX,Staff shortage
+317,Recovery Residence,Los Angeles,CA,Excellent condition
+318,Shelter Plus,Phoenix,AZ,No issues reported
+319,Second Chance,Dallas,TX,Excellent condition
+320,New Beginnings,Philadelphia,PA,Recently renovated
+321,Pathway Place,Los Angeles,CA,Recently renovated
+322,Sunrise Shelter,Chicago,IL,Excellent condition
+323,Hope House,Los Angeles,CA,Overcrowded
+324,Hope House,Philadelphia,PA,Staff shortage
+325,Second Chance,Philadelphia,PA,High demand
+326,Shelter Plus,San Jose,CA,Staff shortage
+327,Sunrise Shelter,Chicago,IL,Overcrowded
+328,Harbor Home,Houston,TX,
+329,Safe Haven,San Jose,CA,Staff shortage
+330,Shelter Plus,Philadelphia,PA,Excellent condition
+331,Second Chance,Chicago,IL,Staff shortage
+332,Harbor Home,Los Angeles,CA,High demand
+333,New Beginnings,Chicago,IL,Needs maintenance
+334,Shelter Plus,Phoenix,AZ,Under inspection
+335,Sunrise Shelter,Dallas,TX,Needs maintenance
+336,New Beginnings,Houston,TX,Overcrowded
+337,Harbor Home,Los Angeles,CA,Under inspection
+338,Recovery Residence,Los Angeles,CA,Staff shortage
+339,Safe Haven,Philadelphia,PA,Overcrowded
+340,New Beginnings,San Antonio,TX,Needs maintenance
+341,Hope House,Chicago,IL,No issues reported
+342,Harbor Home,Los Angeles,CA,Excellent condition
+343,Safe Haven,Phoenix,AZ,Overcrowded
+344,HomeSafe,San Jose,CA,No issues reported
+345,HomeSafe,San Antonio,TX,Staff shortage
+346,Hope House,Houston,TX,
+347,Shelter Plus,Philadelphia,PA,Overcrowded
+348,New Beginnings,New York,NY,Needs maintenance
+349,HomeSafe,San Antonio,TX,Needs maintenance
+350,Safe Haven,Philadelphia,PA,No issues reported
+351,HomeSafe,New York,NY,Under inspection
+352,Recovery Residence,Philadelphia,PA,Recently renovated
+353,Recovery Residence,Philadelphia,PA,Needs maintenance
+354,Recovery Residence,San Antonio,TX,
+355,Safe Haven,Chicago,IL,
+356,Safe Haven,New York,NY,Staff shortage
+357,HomeSafe,Phoenix,AZ,Overcrowded
+358,Shelter Plus,Los Angeles,CA,Recently renovated
+359,Hope House,Phoenix,AZ,Excellent condition
+360,Harbor Home,Chicago,IL,
+361,Harbor Home,New York,NY,High demand
+362,HomeSafe,Chicago,IL,Recently renovated
+363,Recovery Residence,Dallas,TX,Under inspection
+364,New Beginnings,Philadelphia,PA,Under inspection
+365,Hope House,Los Angeles,CA,High demand
+366,Shelter Plus,Dallas,TX,Overcrowded
+367,Harbor Home,Chicago,IL,Overcrowded
+368,Pathway Place,Phoenix,AZ,Overcrowded
+369,Sunrise Shelter,Phoenix,AZ,Needs maintenance
+370,Pathway Place,San Jose,CA,Staff shortage
+371,Harbor Home,Dallas,TX,
+372,Recovery Residence,Phoenix,AZ,Recently renovated
+373,Harbor Home,Los Angeles,CA,Recently renovated
+374,Sunrise Shelter,Dallas,TX,Staff shortage
+375,Pathway Place,Houston,TX,Overcrowded
+376,HomeSafe,Chicago,IL,
+377,Sunrise Shelter,San Antonio,TX,Recently renovated
+378,HomeSafe,Chicago,IL,Staff shortage
+379,Shelter Plus,Los Angeles,CA,Staff shortage
+380,Harbor Home,Dallas,TX,High demand
+381,Sunrise Shelter,San Antonio,TX,Overcrowded
+382,HomeSafe,Dallas,TX,Needs maintenance
+383,Harbor Home,Philadelphia,PA,Needs maintenance
+384,Safe Haven,Philadelphia,PA,Recently renovated
+385,HomeSafe,Phoenix,AZ,No issues reported
+386,Shelter Plus,Philadelphia,PA,No issues reported
+387,Harbor Home,San Antonio,TX,Needs maintenance
+388,Pathway Place,San Jose,CA,
+389,Pathway Place,New York,NY,
+390,Second Chance,San Jose,CA,High demand
+391,Hope House,San Diego,CA,No issues reported
+392,Recovery Residence,Houston,TX,Staff shortage
+393,Second Chance,New York,NY,High demand
+394,Shelter Plus,Chicago,IL,Staff shortage
+395,Pathway Place,New York,NY,Needs maintenance
+396,Harbor Home,New York,NY,Staff shortage
+397,Pathway Place,Phoenix,AZ,Needs maintenance
+398,New Beginnings,Los Angeles,CA,Excellent condition
+399,Safe Haven,New York,NY,High demand
+400,Recovery Residence,Dallas,TX,Overcrowded
+401,Shelter Plus,Dallas,TX,No issues reported
+402,Sunrise Shelter,Phoenix,AZ,Staff shortage
+403,Harbor Home,San Jose,CA,Excellent condition
+404,Pathway Place,Los Angeles,CA,Needs maintenance
+405,Pathway Place,San Diego,CA,High demand
+406,Pathway Place,Los Angeles,CA,Overcrowded
+407,New Beginnings,San Diego,CA,Overcrowded
+408,Recovery Residence,Los Angeles,CA,Overcrowded
+409,Safe Haven,Dallas,TX,Needs maintenance
+410,Sunrise Shelter,Houston,TX,Excellent condition
+411,Sunrise Shelter,Philadelphia,PA,No issues reported
+412,Second Chance,Chicago,IL,Excellent condition
+413,HomeSafe,Dallas,TX,No issues reported
+414,Pathway Place,Chicago,IL,High demand
+415,Shelter Plus,Los Angeles,CA,Under inspection
+416,Shelter Plus,Philadelphia,PA,High demand
+417,Safe Haven,Philadelphia,PA,High demand
+418,New Beginnings,San Antonio,TX,Overcrowded
+419,Second Chance,Dallas,TX,High demand
+420,Shelter Plus,Houston,TX,Staff shortage
+421,Safe Haven,San Antonio,TX,Needs maintenance
+422,HomeSafe,San Jose,CA,Under inspection
+423,Pathway Place,Chicago,IL,Under inspection
+424,Shelter Plus,Chicago,IL,Excellent condition
+425,HomeSafe,Philadelphia,PA,Excellent condition
+426,Hope House,Chicago,IL,Under inspection
+427,Shelter Plus,Los Angeles,CA,Excellent condition
+428,Shelter Plus,San Jose,CA,Recently renovated
+429,New Beginnings,Phoenix,AZ,Overcrowded
+430,Harbor Home,Philadelphia,PA,Recently renovated
+431,New Beginnings,San Jose,CA,No issues reported
+432,Safe Haven,San Antonio,TX,Under inspection
+433,Pathway Place,New York,NY,Overcrowded
+434,Recovery Residence,Dallas,TX,
+435,New Beginnings,Chicago,IL,
+436,Pathway Place,Philadelphia,PA,Overcrowded
+437,New Beginnings,Dallas,TX,
+438,HomeSafe,Los Angeles,CA,Overcrowded
+439,Second Chance,San Diego,CA,Recently renovated
+440,Shelter Plus,San Antonio,TX,Overcrowded
+441,HomeSafe,New York,NY,High demand
+442,HomeSafe,Chicago,IL,Under inspection
+443,Shelter Plus,Houston,TX,Needs maintenance
+444,Pathway Place,San Antonio,TX,Recently renovated
+445,Recovery Residence,Phoenix,AZ,Needs maintenance
+446,Shelter Plus,Phoenix,AZ,Excellent condition
+447,Recovery Residence,New York,NY,High demand
+448,Harbor Home,Dallas,TX,Overcrowded
+449,HomeSafe,Phoenix,AZ,Recently renovated
+450,Hope House,San Jose,CA,Excellent condition
+451,Harbor Home,Phoenix,AZ,High demand
+452,Safe Haven,Chicago,IL,No issues reported
+453,Second Chance,Philadelphia,PA,
+454,Recovery Residence,San Jose,CA,Needs maintenance
+455,Recovery Residence,Houston,TX,
+456,Second Chance,Phoenix,AZ,Overcrowded
+457,New Beginnings,San Diego,CA,High demand
+458,Second Chance,San Diego,CA,High demand
+459,Shelter Plus,New York,NY,Needs maintenance
+460,Shelter Plus,San Diego,CA,Needs maintenance
+461,HomeSafe,Chicago,IL,High demand
+462,Recovery Residence,Houston,TX,No issues reported
+463,Recovery Residence,Philadelphia,PA,Staff shortage
+464,Sunrise Shelter,Los Angeles,CA,
+465,HomeSafe,Los Angeles,CA,Needs maintenance
+466,Harbor Home,San Diego,CA,
+467,Sunrise Shelter,San Antonio,TX,Excellent condition
+468,Hope House,San Antonio,TX,Overcrowded
+469,Hope House,New York,NY,Needs maintenance
+470,Safe Haven,Chicago,IL,High demand
+471,Hope House,San Jose,CA,Staff shortage
+472,Safe Haven,San Jose,CA,Recently renovated
+473,Harbor Home,Houston,TX,No issues reported
+474,New Beginnings,New York,NY,
+475,Harbor Home,Houston,TX,Recently renovated
+476,Recovery Residence,San Jose,CA,Excellent condition
+477,Safe Haven,Dallas,TX,High demand
+478,Sunrise Shelter,Dallas,TX,Under inspection
+479,Shelter Plus,San Antonio,TX,
+480,Safe Haven,Chicago,IL,Overcrowded
+481,Recovery Residence,San Jose,CA,High demand
+482,Safe Haven,San Jose,CA,No issues reported
+483,Sunrise Shelter,Dallas,TX,
+484,Second Chance,Houston,TX,
+485,New Beginnings,Phoenix,AZ,
+486,Hope House,Los Angeles,CA,Staff shortage
+487,Second Chance,New York,NY,Under inspection
+488,HomeSafe,New York,NY,No issues reported
+489,New Beginnings,San Antonio,TX,Recently renovated
+490,New Beginnings,Houston,TX,High demand
+491,Recovery Residence,San Antonio,TX,Under inspection
+492,Pathway Place,Los Angeles,CA,High demand
+493,Recovery Residence,San Antonio,TX,High demand
+494,HomeSafe,Philadelphia,PA,Overcrowded
+495,Harbor Home,Chicago,IL,No issues reported
+496,Hope House,Phoenix,AZ,Overcrowded
+497,Second Chance,Los Angeles,CA,No issues reported
+498,New Beginnings,Houston,TX,Recently renovated
+499,Recovery Residence,Los Angeles,CA,Under inspection
+500,Pathway Place,Philadelphia,PA,Under inspection
+501,Shelter Plus,Chicago,IL,Recently renovated
+502,Hope House,New York,NY,Under inspection
+503,Recovery Residence,Phoenix,AZ,Staff shortage
+504,Safe Haven,San Diego,CA,
+505,Pathway Place,San Jose,CA,Overcrowded
+506,Pathway Place,Phoenix,AZ,High demand
+507,Second Chance,Philadelphia,PA,Staff shortage
+508,Hope House,San Diego,CA,Needs maintenance
+509,Recovery Residence,Dallas,TX,Excellent condition
+510,Safe Haven,San Jose,CA,Under inspection
+511,Recovery Residence,Chicago,IL,Under inspection
+512,Recovery Residence,Chicago,IL,
+513,New Beginnings,Philadelphia,PA,Overcrowded
+514,HomeSafe,Chicago,IL,Overcrowded
+515,Harbor Home,San Jose,CA,High demand
+516,Second Chance,Philadelphia,PA,Excellent condition
+517,Sunrise Shelter,Los Angeles,CA,Under inspection
+518,Hope House,San Antonio,TX,Under inspection
+519,Sunrise Shelter,New York,NY,Needs maintenance
+520,Recovery Residence,Philadelphia,PA,Under inspection
+521,Second Chance,San Diego,CA,
+522,Pathway Place,San Antonio,TX,Excellent condition
+523,Second Chance,San Antonio,TX,
+524,Harbor Home,San Antonio,TX,Recently renovated
+525,New Beginnings,New York,NY,Under inspection
+526,New Beginnings,Houston,TX,Needs maintenance
+527,Hope House,San Diego,CA,Excellent condition
+528,New Beginnings,New York,NY,Excellent condition
+529,Second Chance,San Jose,CA,No issues reported
+530,Harbor Home,Phoenix,AZ,No issues reported
+531,Hope House,Chicago,IL,Staff shortage
+532,Sunrise Shelter,Houston,TX,Needs maintenance
+533,New Beginnings,Dallas,TX,Overcrowded
+534,New Beginnings,Philadelphia,PA,
+535,Recovery Residence,San Jose,CA,Staff shortage
+536,Hope House,San Jose,CA,Overcrowded
+537,Pathway Place,San Diego,CA,Under inspection
+538,HomeSafe,San Diego,CA,Needs maintenance
+539,Sunrise Shelter,San Jose,CA,Needs maintenance
+540,Safe Haven,Houston,TX,Needs maintenance
+541,Harbor Home,Chicago,IL,High demand
+542,New Beginnings,Phoenix,AZ,No issues reported
+543,Harbor Home,Dallas,TX,Excellent condition
+544,Shelter Plus,Chicago,IL,Under inspection
+545,Pathway Place,San Jose,CA,Needs maintenance
+546,Safe Haven,Phoenix,AZ,
+547,New Beginnings,Houston,TX,Staff shortage
+548,Shelter Plus,Philadelphia,PA,Needs maintenance
+549,Pathway Place,Houston,TX,High demand
+550,New Beginnings,San Jose,CA,Recently renovated
+551,Second Chance,Chicago,IL,Under inspection
+552,Second Chance,San Jose,CA,Needs maintenance
+553,Hope House,San Jose,CA,No issues reported
+554,HomeSafe,Dallas,TX,High demand
+555,Shelter Plus,New York,NY,Staff shortage
+556,Hope House,Chicago,IL,Recently renovated
+557,Pathway Place,Dallas,TX,Needs maintenance
+558,Pathway Place,Houston,TX,No issues reported
+559,Harbor Home,Dallas,TX,No issues reported
+560,Shelter Plus,New York,NY,Recently renovated
+561,Harbor Home,Dallas,TX,Needs maintenance
+562,Sunrise Shelter,Chicago,IL,High demand
+563,Shelter Plus,San Diego,CA,Recently renovated
+564,Hope House,New York,NY,Excellent condition
+565,Recovery Residence,Dallas,TX,Recently renovated
+566,HomeSafe,Dallas,TX,
+567,Recovery Residence,San Jose,CA,No issues reported
+568,Second Chance,Los Angeles,CA,Excellent condition
+569,Pathway Place,Philadelphia,PA,Excellent condition
+570,HomeSafe,Dallas,TX,Staff shortage
+571,Harbor Home,San Diego,CA,No issues reported
+572,Shelter Plus,San Antonio,TX,Needs maintenance
+573,Pathway Place,Dallas,TX,Under inspection
+574,Harbor Home,New York,NY,
+575,Harbor Home,San Antonio,TX,High demand
+576,HomeSafe,Houston,TX,Excellent condition
+577,Hope House,San Jose,CA,Needs maintenance
+578,HomeSafe,Phoenix,AZ,Needs maintenance
+579,Shelter Plus,New York,NY,Excellent condition
+580,HomeSafe,San Diego,CA,Overcrowded
+581,Safe Haven,Los Angeles,CA,Under inspection
+582,Recovery Residence,New York,NY,Under inspection
+583,New Beginnings,San Antonio,TX,Excellent condition
+584,Hope House,Houston,TX,Needs maintenance
+585,New Beginnings,Philadelphia,PA,Excellent condition
+586,Hope House,Phoenix,AZ,Recently renovated
+587,Hope House,Philadelphia,PA,No issues reported
+588,New Beginnings,New York,NY,High demand
+589,Second Chance,San Jose,CA,Staff shortage
+590,Harbor Home,Phoenix,AZ,
+591,Shelter Plus,Houston,TX,Recently renovated
+592,Second Chance,Los Angeles,CA,High demand
+593,Pathway Place,Chicago,IL,No issues reported
+594,Shelter Plus,Los Angeles,CA,Needs maintenance
+595,New Beginnings,Chicago,IL,Staff shortage
+596,Shelter Plus,San Jose,CA,High demand
+597,Second Chance,San Diego,CA,Needs maintenance
+598,Pathway Place,Dallas,TX,
+599,Safe Haven,Los Angeles,CA,Needs maintenance
+600,New Beginnings,Philadelphia,PA,No issues reported
+601,Sunrise Shelter,Phoenix,AZ,High demand
+602,Shelter Plus,Houston,TX,
+603,HomeSafe,Phoenix,AZ,Excellent condition
+604,Hope House,Los Angeles,CA,
+605,Sunrise Shelter,San Antonio,TX,No issues reported
+606,Harbor Home,San Jose,CA,Staff shortage
+607,Hope House,San Diego,CA,Recently renovated
+608,New Beginnings,Philadelphia,PA,High demand
